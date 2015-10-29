@@ -1,0 +1,6 @@
+ipython>=3.0
+jsonschema
+geopandas
+-e git+https://github.com/pymc-devs/pymc.git
+trans
+seaborn
