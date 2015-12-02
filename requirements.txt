@@ -1,7 +1,7 @@
-ipython>=3.0
 jsonschema
 geopandas
-pymc
+-e git+https://github.com/Theano/Theano.git#egg=Package
 -e git+https://github.com/pymc-devs/pymc3.git#egg=Package
+-e git+https://github.com/pymc-devs/pymc.git#egg=Package
 trans
 seaborn
