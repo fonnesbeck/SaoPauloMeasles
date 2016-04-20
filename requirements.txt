@@ -1,5 +1,3 @@
-ipyparallel
-notebook
-pymc
+-e git+https://github.com/pymc-devs/pymc.git#egg=Package
 trans
 seaborn
