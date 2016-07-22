@@ -1,3 +1,5 @@
--e git+https://github.com/pymc-devs/pymc.git#egg=Package
+cython
+-e git+https://github.com/pymc-devs/pymc.git#egg=pymc
+-e git+https://github.com/pydata/pandas.git#egg=pandas
 trans
 seaborn
